@@ -3,7 +3,6 @@
 
 # TEAM
 divyachowdary
-divyachowdary2841994@gmail.com
 rpa developer 
 
     <name> -- <role> -- <twitter>
@@ -16,3 +15,4 @@ rpa developer
 
     HTML5, CSS3,Angular
     jQuery, Modernizr,ajax
+    java,ui,backend,frintend
