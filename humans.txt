@@ -2,6 +2,9 @@
 # The humans responsible & technology colophon
 
 # TEAM
+divyachowdary
+divyachowdary2841994@gmail.com
+rpa developer 
 
     <name> -- <role> -- <twitter>
 
