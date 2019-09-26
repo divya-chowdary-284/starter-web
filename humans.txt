@@ -3,7 +3,7 @@
 # The humans responsible & technology colophon
 hi,i am modifiing the file before rebase
 doing some changes in local
-
+add some important notes in git stash
 # TEAM
 divyachowdary
 divyachowdary2841994@gmail.com
