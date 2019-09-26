@@ -9,7 +9,7 @@ developer
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+thanks to all my students.
     <name>divya chowdary<twitter
 
 # TECHNOLOGY COLOPHON
