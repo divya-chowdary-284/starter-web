@@ -7,6 +7,7 @@ This is GIT Project,which we are using as sample project
 
 #  introduction
 a lot of lectures are already submitted
+and lot of lectures already submitted and still coming on
 
 ##git and github training
 this is the famous and one of the best training couse of devops
