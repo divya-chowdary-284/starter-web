@@ -24,4 +24,4 @@ compare working area with staging area
 ##GITHUB CONTENT
 comparision with repo
 adding git comparision lecture
-adding new lectures of stash
+adding new lectures of stash courses
