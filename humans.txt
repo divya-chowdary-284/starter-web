@@ -4,8 +4,10 @@ hi,i am modifiing the file before rebase
 # TEAM
 divyachowdary
 divyachowdary2841994@gmail.com
-developer
-
+devel
+oper
+devops enginer level 3 
+git commit
 
     <name> -- <role> -- <twitter>
 
