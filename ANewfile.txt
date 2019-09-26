@@ -1,2 +1,4 @@
 adding new file in text
 this is my directoryfile
+adding stash new branch code...:wq
+
