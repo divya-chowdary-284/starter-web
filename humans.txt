@@ -1,15 +1,16 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+hi,i am modifiing the file before rebase
 # TEAM
 divyachowdary
 divyachowdary2841994@gmail.com
 developer
 
+
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+thanks to all my students.
     <name>divya chowdary<twitter
 
 # TECHNOLOGY COLOPHON
