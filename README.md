@@ -10,6 +10,7 @@ a lot of lectures are already submitted
 
 ##git and github training
 this is the famous and one of the best training couse of devops
+Adding git rebase lectures in git advance part. 
 ##contribution
 fork the report and raise pull request for review
  
